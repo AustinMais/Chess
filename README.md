@@ -1,1 +1,1 @@
-# ChessCL
+# Chess
